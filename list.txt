@@ -1,3 +1,10 @@
+Fruits:
 apples
 bananas
 oranges
+
+Vegetables:
+
+Dairy:
+
+Sweets:
