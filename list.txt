@@ -8,5 +8,8 @@ onions
 potatoes
 
 Dairy:
+Milk
+Butter
+Eggs
 
 Sweets:
