@@ -4,6 +4,8 @@ bananas
 oranges
 
 Vegetables:
+onions
+potatoes
 
 Dairy:
 
